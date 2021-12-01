@@ -1,4 +1,7 @@
+<img alt="Ankit Rastogi" width="100%" height="400" src="https://user-images.githubusercontent.com/55028717/144213622-8568cf77-c847-4a8a-a12c-f465d353a4bb.gif" />
+
 ### Hi there, I'm [Ankit Rastogi!](https://github.com/KingSlayr) 👋
+
 <a href="https://www.codechef.com/users/a_n_k_i_t_">
   <img align="left" alt="Ankit Rastogi | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
