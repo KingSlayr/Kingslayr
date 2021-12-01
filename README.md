@@ -35,7 +35,7 @@
 ***
 
 - 🔭 I’m currently working on [Live Video Streaming Platform](https://github.com/tiwariadarsh/StreamEzy)
-- 🌱 I’m currently learning Backend Development and Bloackchain Development :)
+- 🌱 I’m currently learning Backend Development and Blockchain Development :)
 - 💬 Ask me about anything [here](https://github.com/KingSlayr/Kingslayr/issues)
 
 ***
