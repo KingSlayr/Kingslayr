@@ -115,6 +115,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Rastogi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-rastogi-15653018b/)](https://www.linkedin.com/in/ankit-rastogi-15653018b/)
 [![Gmail Badge](https://img.shields.io/badge/-ankitrastogi31200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitrastogi31200@gmail.com)](mailto:ankitrastogi31200@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-ankit-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/king__slayr/)](https://www.instagram.com/king__slayr/)
-
-***
-<img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
