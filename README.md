@@ -42,9 +42,9 @@
 ## :computer: Languages and Framework 
 <p align="left">
   
-<img height="100" width="100" src="https://user-images.githubusercontent.com/62543734/116005318-0651f500-a624-11eb-8135-0b3fb0296eee.png" title="JavaScript">
-<img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="ReactJS">
-<img height="100" width="100" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" title="MongoDB">
+<img height="100" width="95" src="https://user-images.githubusercontent.com/62543734/116005318-0651f500-a624-11eb-8135-0b3fb0296eee.png" title="JavaScript">
+<img height="100" width="95" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="ReactJS">
+<img height="100" width="95" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" title="MongoDB">
 <img height="100" width="100" src="https://user-images.githubusercontent.com/62543734/116005324-0e119980-a624-11eb-9aa6-62039b116c6c.png" title="NodeJS">
   <img height="100" width="100" src="https://user-images.githubusercontent.com/55028717/144206014-1d12df72-a530-4472-9002-13cdb1352cf7.png" title="Remix IDE">
   <img height="100" width="100" src="https://user-images.githubusercontent.com/55028717/144206169-93ed86a0-c935-4dc3-b3e4-51ca60ecf954.png" title="Solidity">
