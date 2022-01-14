@@ -100,11 +100,11 @@
 
 </div>
   
-  <div align="center">
+<!--   <div align="center">
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingSlayr&layout=compact&langs_count=10)](https://github.com/KingSlayr/github-readme-stats)
 
-</div>
+</div> -->
 </details>
 
 
