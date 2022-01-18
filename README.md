@@ -58,7 +58,7 @@
   <img height="100" width="100" src="https://user-images.githubusercontent.com/55028717/144206503-77411285-aef3-43eb-b84a-5331279782ff.png" title="Tensorflow">
 <img height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfvyB7gy3-LO9sGDlF-jAJWYL7o83sFF_6aydIv0AAkCZPe8foLpdXpv8xh054N9_C3I&usqp=CAU" title="Heroku">
 <img height="100" width="100" src="https://user-images.githubusercontent.com/62543734/116005336-18339800-a624-11eb-97ec-566614497281.png" title="Python">
-<img height="100" width="100" src="https://nx.dev/documentation/latest/shared/jest-logo.png" title="Jest">
+<!-- <img height="100" width="100" src="https://nx.dev/documentation/latest/shared/jest-logo.png" title="Jest"> -->
 <img height="100" width="100" src="https://user-images.githubusercontent.com/62543734/116005354-27b2e100-a624-11eb-813b-2e9a28381243.png" title="HTML"> 
 <img height="100" width="100" src="https://user-images.githubusercontent.com/62543734/116005361-2e415880-a624-11eb-836e-a9bcb03ba82d.png" title="CSS">  
 <img height="100" width="100" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" title="C"> 
