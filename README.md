@@ -1,6 +1,6 @@
 <!-- <img alt="Ankit Rastogi" width="100%" height="400" src="https://user-images.githubusercontent.com/55028717/144213622-8568cf77-c847-4a8a-a12c-f465d353a4bb.gif" /> -->
 
-<a href="https://kingslayr.github.io/portfolio/">
+<a href="https://kingslayr.github.io/portfolio/" target="_blank">
   <img alt="Ankit Rastogi" width="100%" height="400" src="https://user-images.githubusercontent.com/55028717/150478708-e13f9c0a-5bbe-42f5-b0bc-67e13707bb61.JPG" />
 </a>
 
