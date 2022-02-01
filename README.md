@@ -101,7 +101,7 @@
   
    [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=KingSlayr&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/KingSlayr)
 
-
+![](https://komarev.com/ghpvc/?username=KingSlayr)
 </div>
   
 <!--   <div align="center">
