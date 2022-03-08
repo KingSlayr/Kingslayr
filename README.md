@@ -30,7 +30,7 @@
   <img align="left" alt="Ankit Rastogi |GFG" width="40px" src="https://user-images.githubusercontent.com/55028717/148812568-4dc98b60-3db7-4ce6-b73b-95e2ed587462.png" />
 </a>
 
-<a href="https://leetcode.com/ankitrastogi31200/">
+<a href="https://leetcode.com/KingSlayrr/">
   <img align="left" alt="Ankit Rastogi |Leetcode" width="40px" src="https://user-images.githubusercontent.com/55028717/148812308-fe2c7e79-f9b5-415e-bf5b-9d31a51ed8fb.png" />
 </a>
 
