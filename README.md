@@ -10,7 +10,7 @@
   <img align="left" alt="Ankit Rastogi | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
 <a href="https://www.instagram.com/king__slayr/">
-  <img align="left" alt="Ankit Rastogi | instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />![logo](https://user-images.githubusercontent.com/55028717/166092923-b392f8b1-7ab1-4cd1-99df-4b6e7d8a1bb7.png)
+  <img align="left" alt="Ankit Rastogi | instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />
 
 </a>
 <a href="https://www.linkedin.com/in/ankit-rastogi-15653018b/">
